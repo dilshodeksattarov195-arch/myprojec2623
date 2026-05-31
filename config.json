@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfalculate",
+        "uuid": 2368569,
+        "checksum": "n5iwq6"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
